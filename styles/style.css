@@ -1,0 +1,30 @@
+body {
+	background-image: url(../images/back.jpg);
+	background-position: center center;  
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: #FF0F20;  
+}
+
+#main {
+	text-align:center;
+}
+
+input {
+	margin-left: 43%;
+}
+
+ul {
+	margin-left: 30%;
+	list-style: none;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+a {
+	color: pink;
+	text-decoration-line: none;
+}
